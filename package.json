@@ -25,7 +25,7 @@
     "react-spinners": "^0.13.8",
     "react-syntax-highlighter": "^15.5.0",
     "remark-gfm": "^4.0.0",
-    "swiper": "^11.1.4",
+    "swiper": "^12.1.2",
     "typed.js": "^2.1.0"
   },
   "devDependencies": {
