@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "aos": "^2.3.4",
-    "axios": "^1.7.2",
+    "axios": "^1.13.5",
     "cookie-parser": "^1.4.6",
     "gsap": "^3.12.5",
     "jsonwebtoken": "^9.0.2",
